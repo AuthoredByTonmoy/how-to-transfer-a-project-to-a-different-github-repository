@@ -15,4 +15,4 @@ CS Undergrad, AUST, Dhaka 1208, Bangladesh
 > - Yeah, now everything is okay. Let's reload the gitHuv repository and check. If anything wrong follow the procedure again or email me for more assistance.
 
 ## NB: 
-_**Don't copy paste the code to cmd directly, firstly read the code line and understand what to put exactly by yourself.**_
+_**<p style="color: red;">Don't copy paste the code to cmd directly, firstly read the code line and understand what to put exactly by yourself.</p>**_
