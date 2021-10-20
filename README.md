@@ -13,3 +13,5 @@ CS Undergrad, AUST, Dhaka 1208, Bangladesh
 > - Let's change the origin to the new repository, writing on cmd this line: `git remote set-url origin https://github.com/gitHubUserName/repositoryName.git`
 > - Let's to check the origin again, write again on cmd: `git remote -v`
 > - Yeah, now everything is okay. Let's reload the gitHuv repository and check. If anything wrong follow the procedure again or email me for more assistance.
+
+## NB: Don't copy paste the code to cmd directly, firstly read the code line and understand what to put exactly by yourself.
