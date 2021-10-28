@@ -2,7 +2,9 @@
 #### Author: <a href="https://tonmoy-talukder.netlify.app/">Tonmoy Talukder</a>
 CS Undergrad, AUST, Dhaka 1208, Bangladesh
 
-### OS: Windows
+### OS: 
+<img align="center" size="width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/38px-Windows_logo_-_2012.svg.png"/>
+<p>Windows</p>
 
 ## Procedures:
 > - Go to cmd and clone the existing repository to your desire path: `git clone --bare https://github.com/gitHubUserName/repositoryName`
